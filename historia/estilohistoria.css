@@ -1,0 +1,77 @@
+*
+{
+    background-image:logo.jpg;
+	font-family:Times New Roman;
+    margin:3px;
+    padding:3px;
+}
+#cont1
+{
+	background-image:url(imagenes/logo.jpg);
+	background-size:cover;
+	background-position-x:center;
+	background-position-y:center;
+}
+
+header
+{
+	color:yellow;
+}
+h2
+{
+	font-family:Arial;
+	letter-spacing:8px;
+	text-align:right;
+}
+h3
+{
+	color:yellow;
+	font-weight:bold;
+}
+p
+{
+	font-family:arial;
+	text-align:justify;
+	font-weight:bold;
+	color:yellow;
+}
+a
+{
+	color:yellow;
+	text-decoration:none;
+}
+center
+{
+	height:95%;
+	width:95%;
+	opacity:0.2;
+	position:fixed;
+	position:absolute;
+	
+}
+#letra
+{
+	text-align:center;
+	font-weight:bold;
+	font-size:30px;
+	background-color:yellow;
+	color:black;
+	letter-spacing:8px;
+	text-align:center;
+}
+body
+{
+	background-color:black;
+}
+footer
+{
+	color:yellow;
+	text-align:center;
+}
+#cont2
+{
+	background-image:url(imagenes/logo.jpg);
+	background-size:cover;
+	background-position-x:center;
+	background-position-y:center;
+}

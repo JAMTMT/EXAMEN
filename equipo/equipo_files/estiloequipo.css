@@ -1,0 +1,45 @@
+*
+{
+    font-family:verdana;
+    margin:3px;
+    padding:3px;
+}
+img 
+{
+	height:200px;
+	width:200px;
+}
+table
+{
+	border-spacing:1px;
+	background-color:black;
+}
+#cont1
+{
+	background:yellow;
+}
+header
+{
+	background-color:black;
+	color:yellow;
+}
+h2
+{
+	font-family:Arial;
+	letter-spacing:8px;
+	text-align:right;
+}
+a
+{
+	color:yellow;
+	text-decoration:none;
+}
+h3
+{
+	color:yellow;
+}
+h4
+{
+	color:yellow;
+}
+

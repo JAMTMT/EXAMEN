@@ -1,0 +1,84 @@
+*
+{
+    font-family:Times New Roman;
+    margin:3px;
+    padding:3px;
+	
+	
+}
+header
+{
+	
+	color:yellow;
+}
+#cont1
+{
+	background-image:url(imagenes/logo.jpg);
+	background-size:cover;
+	background-position-x:center;
+	background-position-y:center;
+}
+img
+{
+	height:95%;
+	width:95%;
+}
+h2
+{
+	font-family:Arial;
+	letter-spacing:8px;
+	text-align:right;
+}
+h3
+{
+	background-color:yellow;
+	color:black;
+	letter-spacing:8px;
+	text-align:center;
+}
+a
+{
+	color:yellow;
+	text-decoration:none;
+}
+#partido
+{
+	background-color:yellow;
+}
+#imagen
+{
+	height:90%;
+	width:90%;
+}
+td
+{
+	color:yellow;
+	text-align:center;
+}
+table
+{
+	height:100%;
+	width:100%;
+	background-image:url(imagenes/logo.jpg);
+}
+#noticias
+{
+	height:100%;
+	width:100%;
+	text-align:center;
+}
+#logos
+{
+	height:5px;
+	width:5px;
+	background-color:black;
+}
+h6
+{
+	color:yellow;
+	text-align:center;
+}
+body
+{
+	background-color:black;
+}
